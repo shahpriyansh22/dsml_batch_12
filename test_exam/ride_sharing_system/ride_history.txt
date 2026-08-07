@@ -1,0 +1,25 @@
+Driver: Priyansh
+Vehicle: Car
+Distance: 10.0 km
+Fare: Rs. 250.0
+------------------------------
+Driver: Hari
+Vehicle: Bike
+Distance: 10.0 km
+Fare: Rs. 150.0
+------------------------------
+Driver: Om
+Vehicle: Car
+Distance: 15.0 km
+Fare: Rs. 375.0
+------------------------------
+Driver: Rahul
+Vehicle: Bike
+Distance: 12.0 km
+Fare: Rs. 180.0
+------------------------------
+Driver: Dhiraj
+Vehicle: Car
+Distance: 10.5 km
+Fare: Rs. 262.5
+------------------------------
